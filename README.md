@@ -1,2 +1,0 @@
-# yaseenk
-first-repo

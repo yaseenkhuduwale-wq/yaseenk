@@ -1,2 +1,7 @@
 # yaseenk
-first-repo
+kon she oo
+cad
+cvd
+ddv
+ccsvd
+
