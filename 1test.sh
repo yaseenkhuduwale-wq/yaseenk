@@ -1,8 +1,8 @@
 #!/bin/bash
 
 echo "kon she ooo"
-knjvsvdsvef
-vevdsvdbdfb
+echo "knjvsvdsvef"
+echo  "vevdsvdbdfb"
 
-dfbdbdfbf
+echo "dfbdbdfbf"
 
