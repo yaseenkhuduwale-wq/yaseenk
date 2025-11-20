@@ -6,4 +6,4 @@ echo  "vevdsvdbdfb"
 
 echo "dfbdbdfbf"
 
-zcsasa
+echo "zcsasa"
